@@ -8,4 +8,4 @@ find it has inconvenient maplotlib of country
 
 Rather than tough it out, a bit of elbow grease and a healthy serving 
 of string methods can quickly sort out even the worst headers.
-#pandas#datascience
+#pandas#datascience.
