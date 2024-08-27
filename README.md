@@ -1,6 +1,6 @@
 # project-2-super-store-data-analysis-using-pandas-
 
-pandas using store market data visulazation
+pandas using store market data visulazation.
 
 I have complete basic of pandas project,
 Gross domestic product imported a dataset into Pandas only to 
